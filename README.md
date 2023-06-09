@@ -8,7 +8,7 @@ To Create a backdoor with Social Engineering Toolkit (SET)
 
 ### Step 1:
 
-Install kali linux either in partition or virtual box or in live mode
+Install kali linux either in partition or virtual box or in live mode.
 
 
 ### Step 2:
